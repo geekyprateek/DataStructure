@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>"Technology"</item>
+        <item>"Entertainment"</item>
+        <item>Science</item>
+        <item>Saved Feeds</item>
+    </string-array>
+</resources>
