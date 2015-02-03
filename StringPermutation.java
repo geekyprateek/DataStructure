@@ -102,6 +102,7 @@ public class printAllPermutations {
 		System.out.println("Balanced paranthesis permutations");
 		p.paranthPermut(0, 0, 0, s, 4);
 		
+		System.out.println("Is another string subsequence in O(n)");
 		p.isSubsequence("dca");
 	}
 
